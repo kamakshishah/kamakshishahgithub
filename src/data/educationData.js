@@ -1,10 +1,10 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Stevens Institute of Technology (SIT)',
+        institution: 'Purdue University',
         course: 'MS in Computer Science',
-        startYear: '2021',
-        endYear: '2023', 
+        startYear: '2023',
+        endYear: '2025', 
         info: 'Relevant Coursework: Web Programming, Database Management System and Fundamentals of Machine Learning',
     },
     {
